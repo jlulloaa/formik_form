@@ -5,9 +5,9 @@
 
 
 <h1 align="center">
-  Learning [React.js](https://reactjs.org/)
+  Learning <a href="https://reactjs.org/" target="_blank"> [React.js] </a>
 </h1>
-<h4 align="center">Create a form with [Formik](https://formik.org/docs/tutorial)</h4>
+<h4 align="center">Create a form with <a href="https://formik.org/docs/tutorial" target="_blank"> Formik </a> </h4>
 
 <p align="center">
 <a href="https://validator.nu/?doc=https://jlulloaa.github.io/formik_form">
