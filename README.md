@@ -10,7 +10,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jlulloaa/formik_form?style=plastic">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/jlulloaa/formik_form?color=yellow&style=plastic">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jlulloaa/formik_form?style=plastic">
-  <a href="https://github.com/jlulloaa/formik_form/blob/main/LICENSE" target="_blank"> <img src="https://img.shields.io/github/license/jlulloaa/formik_form?style=plastic"></a>
+  <a href="https://github.com/jlulloaa/formik_form/blob/main/LICENSE" target="_blank"> <img alt="MIT license" src="https://img.shields.io/github/license/jlulloaa/formik_form?style=plastic"></a>
 </p>
 
 <p align="center">
