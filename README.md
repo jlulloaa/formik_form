@@ -1,7 +1,7 @@
 <h1 align="center">
   Learning <a href="https://reactjs.org/" target="_blank"><img alt="React.js logo" src="./misc/pngwing.com.png" width="20"> React.js </a>
 </h1>
-<h4 align="center">Create a form with <a href="https://formik.org/docs/tutorial" target="_blank"> Formik </a> </h4>
+<h2 align="center">Create a form with <a href="https://formik.org/docs/tutorial" target="_blank"> Formik </a> </h2>
 
 <p align="center">
 <a href="https://validator.nu/?doc=https://jlulloaa.github.io/formik_form">
