@@ -1,8 +1,3 @@
-# formik_form
- Learninng React.js - Create forms with Formik
-
-
-
 <h1 align="center">
   Learning <a href="https://reactjs.org/" target="_blank"><img src="./misc/pngwing.com.png" width="20px"> React.js </a>
 </h1>
