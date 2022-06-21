@@ -1,7 +1,7 @@
 <h1 align="center">
   Learning <a href="https://reactjs.org/" target="_blank"><img alt="React.js logo" src="./misc/pngwing.com.png" width="20"> React.js </a>
 </h1>
-<h4 align="center">Create a form with <a alt="Formik logo" href="https://formik.org/docs/tutorial" target="_blank"> Formik </a> </h4>
+<h4 align="center">Create a form with <a href="https://formik.org/docs/tutorial" target="_blank"> Formik </a> </h4>
 
 <p align="center">
 <a href="https://validator.nu/?doc=https://jlulloaa.github.io/formik_form">
@@ -25,7 +25,7 @@
 
 <p align="center"> <img alt="Screenshot" src="./misc/screenshot.png"> </p>
 
-# <img src="./misc/pngwing.com.png" width=20px> Description 
+# <img alt="React.js logo" src="./misc/pngwing.com.png" width=20px> Description 
 Formik Form is an exercise to learn [React.js](https://reactjs.org/) by creating forms with [Formik](https://formik.org/). This is a practice work I am doing as part of the [full-stack web developer certificate](https://executive-ed.xpro.mit.edu/professional-certificate-coding) I am pursuing. 
 
 The idea of this exercise is to build a form using the [React.js](https://reactjs.org/) library [Formik](https://formik.org/), so we can build up confidence on working with react components while leaving the hard work of wiring them to a widely used open-source form library.
@@ -35,7 +35,7 @@ Unfortunately, to see this application in action, you need to clone it and set i
 This particular example, is a very simple example of a form, that doesn't take you anywhere, but shows you how to check the user input correct values for each field. Despite the basic type, this app can be the basis for a much more sophisticated user-access controlled application. 
 
 
-#  <img src="./misc/formik.svg" width=20px> How to Run
+#  <img alt="Formik logo" src="./misc/formik.svg" width=20px> How to Run
 
 
 # Roadmap of future improvements
